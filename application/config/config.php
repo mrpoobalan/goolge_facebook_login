@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url'] = "http://localhost/facebook-google-login-master";
+$config['base_url'] = "http://localhost/google";
 
 /*
 |--------------------------------------------------------------------------
